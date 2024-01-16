@@ -1,0 +1,8 @@
+.detail {
+    text-align: center;   
+    margin: auto;
+}
+
+.detail > img {
+    width: 100%;
+}
